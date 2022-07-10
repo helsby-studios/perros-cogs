@@ -1,5 +1,5 @@
-# Name of Cog: 
+# Name of Cog
 
-## Function of Cog: 
+## Function of Cog
 
-### Developers: 
+### Developers
