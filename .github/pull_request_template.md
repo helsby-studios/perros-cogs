@@ -6,10 +6,10 @@
 
 - [ ] The Cog is licensed under GPLV3
 
-## This is the Function of the Cog:
+## This is the Function of the Cog
 
 [Describe the Function here!]
 
-#### These Developers worked on the Cog:
+#### These Developers worked on the Cog
 
 [Names Here]
