@@ -1,5 +1,15 @@
-# Name of Cog
+# [Cog name here]
 
-## Function of Cog
+- [ ] Added the Cog to the index.json file
 
-### Developers
+- [ ] Tested the Cog
+
+- [ ] The Cog is licensed under GPLV3
+
+## This is the Function of the Cog:
+
+[Describe the Function here!]
+
+#### These Developers worked on the Cog:
+
+[Names Here]
