@@ -5,11 +5,11 @@
     "example": {
         "name": "Example Cog",
         "description": "This is an example cog.",
-        "filename": "example.perroscog"
+        "filename": "example.py"
     },
     "example2": {
         "name": "Example Cog2",
         "description": "This is an example cog too.",
-        "filename": "example2.perroscog"
+        "filename": "example2.py"
     }
 }
