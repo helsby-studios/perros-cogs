@@ -1,0 +1,15 @@
+{
+    "name": "Perros Cogs",
+    "description": "The official Perros Cogs repository.",
+    "id": "76bb6908-b7ef-4088-933f-752f5246d8cf",
+    "example": {
+        "name": "Example Cog",
+        "description": "This is an example cog.",
+        "filename": "example.perroscog"
+    },
+    "example2": {
+        "name": "Example Cog2",
+        "description": "This is an example cog too.",
+        "filename": "example2.perroscog"
+    }
+}
