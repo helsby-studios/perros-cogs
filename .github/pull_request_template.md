@@ -10,6 +10,6 @@
 
 [Describe the Function here!]
 
-#### These Developers worked on the Cog
+### These Developers worked on the Cog
 
 [Names Here]
