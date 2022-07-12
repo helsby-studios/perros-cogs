@@ -3,7 +3,7 @@
 
 Cogs are community/in house additions to PerrOS and are at the core of its function, they are what makes PerrOS useful, adding commands like applications, music, moderation and Just about anything else made by you or the community!
 
-## Contributeing
+## Contributing
 When contributeing, update the index.json file with your cog, add the .py file and make sure you tested it.
 
 ### Hosting your own
