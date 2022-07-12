@@ -13,7 +13,7 @@
             "name": "Example Cog2",
             "description": "This is an example cog too.",
             "filename": "example2.py",
-            "requirements": "python-yubico, pillow"
+            "requirements": "novus, pillow"
         }
     }
 }
