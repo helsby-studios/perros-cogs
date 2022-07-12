@@ -6,12 +6,14 @@
         "example": {
             "name": "Example Cog",
             "description": "This is an example cog.",
-            "filename": "example.py"
+            "filename": "example.py",
+            "requirements": ""
         },
         "example2": {
             "name": "Example Cog2",
             "description": "This is an example cog too.",
-            "filename": "example2.py"
+            "filename": "example2.py",
+            "requirements": "python-yubico, pillow"
         }
     }
 }
