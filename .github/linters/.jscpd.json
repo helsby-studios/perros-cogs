@@ -3,10 +3,5 @@
   "reporters": [
     "consoleFull"
   ],
-  "ignore": [
-    "**/__snapshots__/**",
-    "**/cogs/**",
-    "**/templates/**"
-  ],
   "absolute": true
 }
